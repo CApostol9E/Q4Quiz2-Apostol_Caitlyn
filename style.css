@@ -1,0 +1,19 @@
+body {
+      background-color: #A7C7E7;
+    }
+    .container {
+      margin-top: 50px;
+      max-width: 600px;
+      background-color: #4F42B5;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    details {
+      margin-bottom: 15px;
+    }
+    footer {
+      margin-top: 30px;
+      text-align: center;
+      font-size: 14px;
+    }
